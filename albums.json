@@ -1,0 +1,53 @@
+[
+  {
+    "artist": "Billie Eilish",
+    "album": "When We All Fall Asleep, Where Do We Go?",
+    "released": 2019,
+    "tracks": [
+      "Bad Guy",
+      "Xanny",
+      "You Should See Me in a Crown",
+      "All the Good Girls Go to Hell",
+      "Wish You Were Gay",
+      "When the Party's Over",
+      "8",
+      "My Strange Addiction",
+      "Bury a Friend",
+      "Ilomilo"
+    ]
+  },
+  {
+    "artist": "Ariana Grande",
+    "album": "Sweetener",
+    "released": 2018,
+    "tracks": [
+      "Raindrops (An Angel Cried)",
+      "Blazed",
+      "The Light Is Coming (featuring Nicki Minaj)",
+      "R.E.M.",
+      "God Is a Woman",
+      "Sweetener",
+      "Successful",
+      "Everytime",
+      "Breathin",
+      "No Tears Left to Cry"
+    ]
+  },
+  {
+    "artist": "Taylor Swift",
+    "album": "1989",
+    "released": 2014,
+    "tracks": [
+      "Welcome to New York",
+      "Blank Space",
+      "Style",
+      "Out of the Woods",
+      "All You Had to Do Was Stay",
+      "Shake It Off",
+      "I Wish You Would",
+      "Bad Blood",
+      "Wildest Dreams",
+      "How You Get the Girl"
+    ]
+  }
+]
